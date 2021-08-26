@@ -51,6 +51,19 @@ export const Home = () => {
             </Row>
         </Container>
         <Jumbotron />
+        <Container className="container-content">
+            <Row>
+                <Col md={7}>
+                    <img src={slider2} height={400} />
+                </Col>
+                <Col md={5}>
+                    <h2>ZaytsevTech Header</h2>
+                    <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel sagittis nibh, gravida rhoncus justo. Quisque maximus ligula eros, ut suscipit sapien sollicitudin in. Donec a tempus purus. Sed ultricies dapibus neque eget sagittis.
+                    </p>
+                </Col>
+            </Row>
+        </Container>
         </>
     )
 }
