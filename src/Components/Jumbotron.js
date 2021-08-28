@@ -36,7 +36,7 @@ const Jumbotron = () => (
         <Container className>
             <h1>Zaytsev Tech Header</h1>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel sagittis nibh, gravida rhoncus justo. Quisque maximus ligula eros, ut suscipit sapien sollicitudin in. Donec a tempus purus. Sed ultricies dapibus neque eget sagittis.
+                This some text for example. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel sagittis nibh, gravida rhoncus justo. Quisque maximus ligula eros, ut suscipit sapien sollicitudin in. Donec a tempus purus. Sed ultricies dapibus neque eget sagittis.
             </p>
         </Container>
     </Jumbo>
